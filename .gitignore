@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .coverage
 .pytest_cache/
+
+# Lab handouts are course material - never push them
+*_Student_Handout.pdf
+.hypothesis/
